@@ -1,7 +1,7 @@
-print(type('zion'))
+print(type('zion')) #str=()
 name='zion'
 print(name)
-print(type(['zion','jspark','jungsam']))
+print(type(['zion','jspark','jungsam'])) #list=[]
 names=['zion','jspark','jungsam']
 print(names)
 print(names[1])
